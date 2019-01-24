@@ -16,10 +16,10 @@ If you need help using this extension please message me on discord Ahmed#8333
 
 # G-Earth Download:
 
-Windows 32 BIT: 
+Windows 32 BIT: https://github.com/DevLooney/G-Earth-4-Recharger/releases/download/v1.0/G-Earth-0.2.2_windows_32bit.zip
 
-Windows 64 BIT: 
+Windows 64 BIT: https://github.com/DevLooney/G-Earth-4-Recharger/releases/download/v1.0/G-Earth-0.2.2_windows_64bit.zip
 
 # Extension Download:
 
-Please click this link to download: 
+Please click this link to download: https://github.com/DevLooney/G-Earth-4-Recharger/releases/download/v1.0/4+.Recharger.-.Release.zip
